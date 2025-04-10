@@ -11,6 +11,9 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
-# Instructor's Section
+# Lu's Section
 
+This is Lu's contribution to the collaborative Quarto project.
+
+# Instructor's Section
 This section was added after Student B began work.
